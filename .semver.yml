@@ -7,7 +7,7 @@ branches: [ master, main ]
 # You can override the default values to suit your project.
 semver:
   #  minor:
-  #    - lipstick
+  #    - ambulance
   #  patch:
   #    - art
   #  none: # gitmoji.json "semver": null is convert to none
